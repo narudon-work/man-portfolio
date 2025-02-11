@@ -11,6 +11,7 @@ const translations = {
     /*Hero Section*/
     hello: "Hello, I'm a Junior Developer",
     herodesc: "I build modern web applications with Tailwind CSS",
+    heroscrolldown: "Scroll Down", 
     /*Projects Section*/
     project: "My Projects",
     /*About Section*/
@@ -28,6 +29,7 @@ const translations = {
     /*Hero Section*/
     hello: "สวัสดี ผมเป็นนักพัฒนาเว็บมือใหม่",
     herodesc: "ฉันสร้างแอปพลิเคชันเว็บที่ทันสมัยด้วย Tailwind CSS",
+    heroscrolldown: "เลื่อนลง", 
     /*Projects Section*/
     project: "โปรเจคของผม",
     /*About Section*/

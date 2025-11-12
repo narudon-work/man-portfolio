@@ -9,8 +9,7 @@ const About = () => {
       ข้อมูลเกี่ยวกับตัวเอง + ทักษะ
         </p>
       <p className="mt-4 max-w-xl mx-auto text-gray-700">
-        I'm passionate about web development and constantly learning new
-        technologies.
+        ทดสอบ
       </p>
     </section>
   );

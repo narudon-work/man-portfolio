@@ -10,7 +10,7 @@ const Projects = () => {
     ]
 
   return (
-    <section id="projects" className="py-16 px-8">
+    <section id="projects" className="py-16 px-8 scroll-mt-18">
       <h2 className="text-3xl font-bold text-center">{t.project}</h2>
       <div className="mt-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {/* Example Project */}

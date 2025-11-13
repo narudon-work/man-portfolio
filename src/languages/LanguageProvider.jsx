@@ -27,8 +27,8 @@ const translations = {
     title: "แมน นฤดล",
     navhome: "หน้าแรก",
     /*Hero Section*/
-    hello: "สวัสดี ผมเป็นนักพัฒนาเว็บมือใหม่",
-    herodesc: "ฉันสร้างแอปพลิเคชันเว็บที่ทันสมัยด้วย Tailwind CSS",
+    hello: <p className="leading-14">สวัสดีครับ<br />ผมชื่อ นฤดล ชื่อเล่น แมน</p>,
+    herodesc: "ขอแนะนำตัวเองคร่าวๆ",
     heroscrolldown: "เลื่อนลง", 
     /*Projects Section*/
     project: "โปรเจคของผม",

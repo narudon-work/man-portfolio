@@ -4,7 +4,7 @@ const Navbar = () => {
   const { lang, toggleLanguage, t } = useLanguage();
 
   return (
-    <nav>
+    <nav className="fixed top-0 left-0 w-full z-50 backdrop-blur-md bg-white/70 shadow-sm">
       <div className="bg-white shadow-md p-4 flex justify-between items-center relative">
         <div className="text-x1 font-bold">
           <img src="/LogoManaru.svg" alt="logo" className="w-10 h-10 mr-2 inline-block" />
